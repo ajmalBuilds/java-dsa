@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RunningSum",
+            "request": "launch",
+            "mainClass": "RunningSum",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "ConcatenationOfArray",
+            "request": "launch",
+            "mainClass": "ConcatenationOfArray",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "BuildArrayFromPermutation",
+            "request": "launch",
+            "mainClass": "BuildArrayFromPermutation",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "MultipicationOfMatrix",
+            "request": "launch",
+            "mainClass": "MultipicationOfMatrix",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "AdditionOfMatrix",
+            "request": "launch",
+            "mainClass": "AdditionOfMatrix",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "RotateMatrix",
+            "request": "launch",
+            "mainClass": "RotateMatrix",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "TransposeOfMatrix",
+            "request": "launch",
+            "mainClass": "TransposeOfMatrix",
+            "projectName": "java-dsa_b837d003"
+        }
+    ]
+}
