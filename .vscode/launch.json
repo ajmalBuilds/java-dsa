@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrangeCoins",
+            "request": "launch",
+            "mainClass": "ArrangeCoins",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch2DArraySorted",
+            "request": "launch",
+            "mainClass": "BinarySearch2DArraySorted",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchInMatrix",
+            "request": "launch",
+            "mainClass": "BinarySearchInMatrix",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "SquareRoot",
+            "request": "launch",
+            "mainClass": "SquareRoot",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
             "name": "PeakIndexInMountainArray",
             "request": "launch",
             "mainClass": "PeakIndexInMountainArray",
