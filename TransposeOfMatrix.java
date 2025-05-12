@@ -39,5 +39,7 @@ public class TransposeOfMatrix {
             }
             System.out.println("");
         }
+
+        sc.close();
     }
 }

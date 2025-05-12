@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PeakIndexInMountainArray",
+            "request": "launch",
+            "mainClass": "PeakIndexInMountainArray",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrixII",
+            "request": "launch",
+            "mainClass": "SpiralMatrixII",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "SpiralMatrix",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "KidsWithGreatesCandies",
+            "request": "launch",
+            "mainClass": "KidsWithGreatesCandies",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "ShuffleTheArray",
+            "request": "launch",
+            "mainClass": "ShuffleTheArray",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "RichestCustomerWealth",
+            "request": "launch",
+            "mainClass": "RichestCustomerWealth",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
             "name": "RunningSum",
             "request": "launch",
             "mainClass": "RunningSum",

@@ -49,5 +49,6 @@ public class MultipicationOfMatrix {
         } else {
             System.out.println("Multiplication of given matrices  is not possible!");
         }
+        sc.close();
     }
 }

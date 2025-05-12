@@ -46,5 +46,7 @@ public class AdditionOfMatrix {
         } else {
             System.out.println("Addition of given matrices not possible!");
         }
+
+        sc.close();
     }
 }
