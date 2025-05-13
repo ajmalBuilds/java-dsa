@@ -10,7 +10,7 @@ public int findMin(int[] nums) {
                 high = mid;
             }
         }
-        return nums[low];
+        return nums[low]; 
     }
     public static void main(String[] args) {
         FindMinimumInRotatedSortedArray findMinimumInRotatedSortedArray = new FindMinimumInRotatedSortedArray();
