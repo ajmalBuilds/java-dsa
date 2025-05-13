@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleElementInSortedArray",
+            "request": "launch",
+            "mainClass": "SingleElementInSortedArray",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
             "name": "ArrangeCoins",
             "request": "launch",
             "mainClass": "ArrangeCoins",
