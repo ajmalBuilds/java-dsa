@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindDuplicateNumber",
+            "request": "launch",
+            "mainClass": "FindDuplicateNumber",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "MissingNumber",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
             "name": "InsertionSort",
             "request": "launch",
             "mainClass": "InsertionSort",
