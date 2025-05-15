@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntersectionOfArrays",
+            "request": "launch",
+            "mainClass": "IntersectionOfArrays",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
+            "name": "RecursionPractice",
+            "request": "launch",
+            "mainClass": "RecursionPractice",
+            "projectName": "java-dsa_b837d003"
+        },
+        {
+            "type": "java",
             "name": "FindDuplicateNumber",
             "request": "launch",
             "mainClass": "FindDuplicateNumber",
